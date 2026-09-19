@@ -1,2 +1,3 @@
-# Emotion Detector Application
-This is a Flask-based web application that analyzes text to detect emotions using IBM Watson NLP library.
+# Emotion Detector
+
+This is a Flask-based web application developed using Python and IBM Watson NLP library to analyze emotions from text inputs.
